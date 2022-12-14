@@ -1,3 +1,12 @@
+Note: The Old REPO got corrupted with some pull requests, so took that down and pushed this vanilla version of compiler again to the same repo.
+Feature additions are welcomed!
+
+About the Project:
+• Built compiler for a toy object‑oriented programming language(EXPL) running on a hypothetical machine based on MIPS architecture
+• Implemented support for user‑defined data types addressing memory fragmentation issues
+• Built Dynamic memory allocation library that implements Alloc(), Free(), and etc.
+• Implemented support for object‑oriented features such as Inheritance and Sub‑type Polymorphism.
+
 XSM simulator for eXpl
 
 Usage 
